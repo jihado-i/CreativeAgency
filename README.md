@@ -25,5 +25,3 @@ This is a modern and responsive website for a **Creative Digital Agency**, desig
 - **[Optional]** Libraries or frameworks used (e.g., AOS for animation, GSAP, etc.)
 
 ---
-
-## 📁 Folder Structure
